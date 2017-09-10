@@ -1,4 +1,4 @@
-from math import sqrt, atan
+from math import sqrt, atan, log
 class ComplexNumber:
     """
     The class of complex numbers.
